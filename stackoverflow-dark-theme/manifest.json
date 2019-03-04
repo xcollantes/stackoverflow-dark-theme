@@ -1,7 +1,7 @@
 {
-  "name": "Getting Started Example",
+  "name": "Stackoverflow Retina Saver",
   "version": "1.0",
-  "description": "Build an Extension!",
+  "description": "Tired of blindly copying and pasting code from Stackoverflow while getting blinded?  We have the solution.",
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "options_page": "options.html",
   "background": {
